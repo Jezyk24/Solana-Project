@@ -1,4 +1,4 @@
-This is a final project for the Solana Bootcamp 
+This is a final project for the Solana Bootcamp - Part 1
 
 Solana Programs perform checks on instructions to ensure security and that required invariants are not being violated.
 
